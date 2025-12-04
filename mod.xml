@@ -1,0 +1,9 @@
+<Mod
+	name="English Enemy Names"
+	description="Translates all enemy/wand/etc. names to English from their original Finnish names."
+	request_no_api_restrictions="0" 
+	is_translation="1"
+	translation_xml_path="mods/english_enemy_names/translation.xml"
+	translation_csv_path="mods/english_enemy_names/translation.csv"
+> 
+</Mod>
