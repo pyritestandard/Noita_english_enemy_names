@@ -43,7 +43,7 @@ This is **only** a language file:
 1. Open **Options** in Noita.
 2. Go to the **General** tab.
 3. Look at the bottom to the **Miscellaneous** section.
-4. Right-click on **Language:** until you see  
+4. ___Right-click___ on **Language:** until you see  
    **`English [Translated Names]`**
 5. Back out of the menu to apply.
 
